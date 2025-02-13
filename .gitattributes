@@ -1,0 +1,2 @@
+dados_reduzidos.csv filter=lfs diff=lfs merge=lfs -text
+dados_consolidados.csv filter=lfs diff=lfs merge=lfs -text
