@@ -29,7 +29,7 @@ def carregar_csv(file_path, **kwargs):
 
 # Leitura do arquivo reduzido (cache garantido)
 data_reduzida = carregar_csv(
-    "dados_reduzidos.csv",
+    "dados_reduzidos_sampled.csv",
     sep=';',
     encoding='utf-8',
     on_bad_lines='skip',

@@ -1,40 +1,28 @@
 import pandas as pd
-import glob
 
-# 1. Criar arquivos vazios para armazenar os dados processados
-dados_completos_csv = "dados_completos.csv"
-dados_balanceados_csv = "dados_balanceados.csv"
-
-# Criar estrutura de DataFrame vazia para o primeiro arquivo
-df_vazio = True
-
-# 2. Carregar e processar arquivos CSV um por vez
-file_paths = glob.glob("*.csv")  # Certifique-se de executar no diretório correto
-
-for file in file_paths:
+def reduzir_csv(input_file, output_file, frac=0.2, sep=";", encoding="utf-8"):
+    """
+    Lê o CSV de entrada, seleciona uma amostra de tamanho frac (padrão 20% dos dados)
+    e salva em um novo arquivo CSV.
+    """
+    # Carrega o CSV original
     try:
-        for chunk in pd.read_csv(file, sep=';', encoding='utf-8', on_bad_lines='skip', low_memory=False, chunksize=5000):
-            chunk = chunk.drop_duplicates()
-            
-            # Limitar para 50.000 registros por arquivo
-            chunk = chunk.sample(n=min(10000, len(chunk)), random_state=42)
-            
-            # Salvar em CSV aos poucos para evitar consumo excessivo de RAM
-            chunk.to_csv(dados_completos_csv, mode='a', header=df_vazio, index=False)
-            df_vazio = False
-            
-        print(f"{file}: processado e salvo parcialmente!")
+        df = pd.read_csv(input_file, sep=sep, encoding=encoding, on_bad_lines='skip', low_memory=False)
     except Exception as e:
-        print(f"Erro ao carregar {file}: {e}")
+        print(f"Erro ao carregar o arquivo {input_file}: {e}")
+        return
 
-# 3. Recarregar dados já processados
-full_data = pd.read_csv(dados_completos_csv, sep=',', encoding='utf-8', low_memory=False)
+    # Seleciona uma amostra aleatória com 20% dos dados
+    df_reduzido = df.sample(frac=frac, random_state=42)  # random_state para reprodutibilidade
 
-# 4. Criar DataFrame balanceado com até 1000 registros por município
-balanced_data = full_data.groupby("municipioNotificacao").apply(lambda x: x.sample(n=min(1000, len(x)), random_state=42))
-balanced_data = balanced_data.reset_index(drop=True)
+    # Salva o novo arquivo CSV
+    try:
+        df_reduzido.to_csv(output_file, sep=sep, encoding=encoding, index=False)
+        print(f"Arquivo reduzido salvo em '{output_file}'. Total de linhas: {len(df_reduzido)}")
+    except Exception as e:
+        print(f"Erro ao salvar o arquivo {output_file}: {e}")
 
-# 5. Salvar dados balanceados
-balanced_data.to_csv(dados_balanceados_csv, index=False)
-
-print("Processamento concluído. Arquivos salvos: dados_completos.csv e dados_balanceados.csv")
+if __name__ == '__main__':
+    input_file = "dados_reduzidos.csv"         # arquivo original
+    output_file = "dados_reduzidos_sampled.csv"  # arquivo reduzido
+    reduzir_csv(input_file, output_file, frac=0.2)
