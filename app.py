@@ -14,7 +14,8 @@ st.sidebar.header("Opções")
 aba1, aba2 = st.tabs(["Análise de Dados", "Predição"])
 
 # ----------------------------------------------------------------
-# 2. Função genérica para carregar CSV
+# 2. Função genérica para carregar CSV (com cache)
+@st.cache_data
 def carregar_csv(file_path, **kwargs):
     """
     Tenta carregar um CSV e retorna um DataFrame.
@@ -26,7 +27,7 @@ def carregar_csv(file_path, **kwargs):
         st.error(f"Erro ao carregar '{file_path}': {e}")
         return pd.DataFrame()
 
-# Leitura do arquivo reduzido
+# Leitura do arquivo reduzido (cache garantido)
 data_reduzida = carregar_csv(
     "dados_reduzidos.csv",
     sep=';',
@@ -36,11 +37,11 @@ data_reduzida = carregar_csv(
 )
 
 # ----------------------------------------------------------------
-# 3. Processamento dos dados
+# 3. Processamento dos dados (cache)
+@st.cache_data
 def preprocessar_dados(data: pd.DataFrame) -> pd.DataFrame:
     """
-    Converte dataNotificacao para datetime, filtra por intervalo,
-    e cria coluna ano_mes.
+    Converte 'dataNotificacao' para datetime, filtra por intervalo e cria a coluna 'ano_mes'.
     """
     if data.empty:
         return data
@@ -49,21 +50,16 @@ def preprocessar_dados(data: pd.DataFrame) -> pd.DataFrame:
         st.warning("Coluna 'dataNotificacao' não encontrada. Retornando DataFrame vazio.")
         return pd.DataFrame()
     
-    # Converte a coluna para datetime
     data['dataNotificacao'] = pd.to_datetime(data['dataNotificacao'], errors='coerce')
     data = data.dropna(subset=['dataNotificacao'])
-    
-    # Filtra datas de interesse
     data = data[(data['dataNotificacao'] >= '2022-01-01') & (data['dataNotificacao'] <= '2024-12-31')]
-    
-    # Cria ano_mes (YYYY-MM)
     data['ano_mes'] = data['dataNotificacao'].dt.to_period('M').astype(str)
     return data
 
 data_reduzida = preprocessar_dados(data_reduzida)
 
 # ----------------------------------------------------------------
-# 4. Função para gerar gráficos
+# 4. Função para gerar gráficos (não necessita de cache)
 def plotar_grafico(titulo, dados, xlabel, ylabel, cor):
     """
     Plota um gráfico de barras com os 10 primeiros itens de 'dados'.
@@ -77,33 +73,29 @@ def plotar_grafico(titulo, dados, xlabel, ylabel, cor):
     st.pyplot(fig)
 
 # ----------------------------------------------------------------
-# 5. Análises
+# 5. Função de análise dos dados (apenas exibe os gráficos)
 def gerar_analises(data: pd.DataFrame, titulo: str):
     """
-    Gera várias análises (gráficos) sobre sintomas, municípios, raça/cor etc.
+    Gera análises (gráficos) sobre sintomas, municípios, raça/cor, etc.
     """
     st.subheader(titulo)
     
-    # Se estiver vazio, não faz nada
     if data.empty:
         st.warning("Nenhum dado encontrado para análise.")
         return
     
-    # Verifica se colunas necessárias existem
     colunas_necessarias = ["sintomas", "municipioNotificacao", "racaCor", "codigoDosesVacina", "ano_mes"]
     for col in colunas_necessarias:
         if col not in data.columns:
             st.warning(f"Coluna '{col}' não encontrada no dataset.")
             return
     
-    # Cria contagens
     sintomas_counts = data['sintomas'].str.get_dummies(sep=',').sum().sort_values(ascending=False)
     municipios_counts = data['municipioNotificacao'].value_counts()
     raca_counts = data['racaCor'].value_counts()
     vacina_counts = data['codigoDosesVacina'].value_counts()
     mes_counts = data['ano_mes'].value_counts().sort_index()
     
-    # Exibe gráficos
     st.write("### Top 10 Sintomas")
     plotar_grafico("Top 10 Sintomas Registrados", sintomas_counts, "Sintomas", "Número de Ocorrências", 'skyblue')
     
@@ -125,26 +117,24 @@ with aba1:
     gerar_analises(data_reduzida, "Dados da Base Reduzida")
 
 # ----------------------------------------------------------------
-# 6. Predição do próximo mês (Base reduzida e balanceada)
+# 6. Predição do próximo mês (cache para a função de predição)
+@st.cache_data
 def prever_proximo_mes(notificacoes: pd.DataFrame, col_y='quantidade') -> float:
     """
-    Recebe um DataFrame com colunas 'ano_mes' e col_y (ex.: 'quantidade').
-    Cria uma regressão polinomial e prevê o valor para o próximo mês (aprox +30 dias).
-    Retorna um float com a previsão.
+    Recebe um DataFrame com 'ano_mes' e a coluna alvo (ex.: 'quantidade'),
+    realiza regressão polinomial e prevê o valor para o próximo mês (~+30 dias).
     """
     if notificacoes.empty:
         st.warning("Sem dados para previsão.")
         return 0
     
-    # Checa se colunas necessárias existem
     if 'ano_mes' not in notificacoes.columns:
-        st.warning("Coluna 'ano_mes' não encontrada no dataset para previsão.")
+        st.warning("Coluna 'ano_mes' não encontrada para previsão.")
         return 0
     if col_y not in notificacoes.columns:
-        st.warning(f"Coluna '{col_y}' não existe para previsão.")
+        st.warning(f"Coluna '{col_y}' não encontrada para previsão.")
         return 0
     
-    # Converter ano_mes para datetime
     notificacoes['ano_mes'] = pd.to_datetime(notificacoes['ano_mes'].astype(str), errors='coerce')
     notificacoes.dropna(subset=['ano_mes'], inplace=True)
     
@@ -152,10 +142,8 @@ def prever_proximo_mes(notificacoes: pd.DataFrame, col_y='quantidade') -> float:
         st.warning("Dados de 'ano_mes' inválidos para previsão.")
         return 0
     
-    # Criar coluna timestamp (diferença em dias a partir do mínimo)
     notificacoes['timestamp'] = (notificacoes['ano_mes'] - notificacoes['ano_mes'].min()).dt.days
     
-    # Checa se há dados suficientes (regressão polinomial com 2+ pontos)
     if len(notificacoes) < 2:
         st.warning("Dados insuficientes para uma previsão confiável.")
         return 0
@@ -166,7 +154,6 @@ def prever_proximo_mes(notificacoes: pd.DataFrame, col_y='quantidade') -> float:
     modelo = make_pipeline(PolynomialFeatures(2), LinearRegression())
     modelo.fit(X, y)
     
-    # Próximo mês ~ +30 dias
     proximo_ts = notificacoes['timestamp'].max() + 30
     df_proximo = pd.DataFrame({'timestamp': [proximo_ts]})
     previsao = modelo.predict(df_proximo)
@@ -203,7 +190,6 @@ with aba2:
     # Seção para Base Balanceada
     st.subheader("Predição com Base Balanceada")
     try:
-        # Lê o arquivo de população
         file_path_bal = "municipios_populacao.csv"
         populacao = carregar_csv(file_path_bal, sep=',', encoding='utf-8')
         
@@ -215,12 +201,8 @@ with aba2:
             if 'populacao' not in data_balanceada.columns:
                 st.warning("Coluna 'populacao' não encontrada na base de municípios.")
             else:
-                # Calcula a taxa por 1 milhão (exemplo)
-                # Se fosse por 10k, seria * 10000
                 count_notif = data_balanceada.groupby(['municipioNotificacao', 'ano_mes'])['dataNotificacao'].transform('count')
                 data_balanceada['taxa_10k'] = (count_notif / data_balanceada['populacao']) * 1000000
-                
-                # Agrupa e renomeia para 'quantidade' para reaproveitar a função de previsão
                 notificacoes_bal = data_balanceada.groupby('ano_mes')['taxa_10k'].sum().reset_index(name='quantidade')
                 
                 if st.button("Executar Previsão para MG (Base Balanceada)"):
