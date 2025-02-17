@@ -1,886 +1,849 @@
 municipioNotificacao,count
-Belo Horizonte,1696859
-Contagem,234370
-Montes Claros,231756
-Uberlândia,184518
-Uberaba,172195
-Governador Valadares,142367
-Juiz de Fora,113455
-Divinópolis,105759
-Betim,98575
-Pouso Alegre,97727
-Poços de Caldas,88693
-Itajubá,85997
-Sete Lagoas,81404
-Ubá,77963
-Nova Lima,72547
-Lavras,71289
-Patos de Minas,70052
-Araguari,65904
-Ituiutaba,61212
-Santa Luzia,60350
-Ipatinga,57717
-Araxá,54700
-Ouro Preto,52380
-São Lourenço,50197
-Passos,48135
-Varginha,47607
-Formiga,46130
-Lagoa da Prata,44723
-Pará de Minas,44149
-Ribeirão das Neves,43109
-São Sebastião do Paraíso,41524
-Alfenas,40006
-Pirapora,37320
-Coronel Fabriciano,36622
-Teófilo Otoni,36603
-Paracatu,36355
-Três Corações,36300
-Extrema,35616
-Conselheiro Lafaiete,35154
-Arcos,35020
-Manhuaçu,34783
-São João del Rei,33660
-Sabará,33141
-Nova Serrana,33083
-Viçosa,32169
-Sacramento,31524
-Barbacena,30922
-Muriaé,30858
-Curvelo,29514
-João Monlevade,28911
-Itaúna,28856
-Diamantina,28813
-Unaí,28656
-Monte Carmelo,27873
-Vespasiano,27441
-Andradas,26409
-Campo Belo,25983
-Lagoa Santa,25212
-Iturama,24613
-Bom Despacho,24104
-Caratinga,23255
-Frutal,22337
-Cataguases,22113
-Patrocínio,21971
-Itabira,21653
-Pedro Leopoldo,21141
-Três Pontas,21119
-Congonhas,20330
-Janaúba,20041
-Brumadinho,19690
-Itamarandiba,18974
-Santa Vitória,18361
-Machado,18210
-João Pinheiro,17738
-Ponte Nova,17333
-Igarapé,17246
-Santo Antônio do Monte,15979
-Piumhi,15876
-Além Paraíba,15519
-Timóteo,15464
-Ibirité,14950
-Prata,14817
-Santa Bárbara,14244
-Visconde do Rio Branco,14182
-Leopoldina,14008
-Arinos,13853
-Boa Esperança,13576
-Campanha,13275
-Mateus Leme,12609
-Mariana,12414
-Matozinhos,12240
-Esmeraldas,12190
-Guanhães,12190
-Nanuque,11985
-Carmo do Paranaíba,11973
-Barroso,11707
-Três Marias,11645
-Buritis,11535
-Mantena,11377
-São José da Lapa,11167
-Januária,10585
-Pompéu,10555
-Capelinha,10489
-Camanducaia,10440
-Pitangui,10363
-Raposos,10135
-Carandaí,10127
-Carmópolis de Minas,9626
-Itaú de Minas,9618
-Cláudio,9416
-Ibiá,9408
-Carneirinho,9312
-Coromandel,9195
-Muzambinho,9181
-São Gonçalo do Sapucaí,9126
-São Gotardo,8815
-Paraguaçu,8784
-Ouro Branco,8782
-Conceição do Mato Dentro,8693
-Caxambu,8607
-Guaranésia,8517
-Lagoa Formosa,8235
-Jaboticatubas,8167
-Araçuaí,8114
-Tupaciguara,7951
-Inhapim,7733
-Jaíba,7605
-Conceição das Alagoas,7563
-Nepomuceno,7503
-Botelhos,7477
-Campestre,7418
-Carmo do Rio Claro,7260
-Cristais,7252
-Oliveira,7176
-Aimorés,7173
-Campina Verde,7167
-Igaratinga,7134
-Itapagipe,7053
-Brasilândia de Minas,7048
-Perdões,6809
-Antônio Carlos,6734
-Itanhandu,6727
-Bom Repouso,6638
-Itatiaiuçu,6619
-Pirapetinga,6592
-Buritizeiro,6571
-Várzea da Palma,6497
-Abaeté,6472
-Itapecerica,6464
-Papagaios,6394
-Almenara,6391
-Martinho Campos,6299
-Nova Ponte,6270
-Guaxupé,6190
-Turmalina,6059
-Barão de Cocais,6048
-Vazante,6012
-Conquista,5950
-Piranga,5942
-Poço Fundo,5850
-Juatuba,5846
-Santa Cruz de Minas,5842
-Perdizes,5817
-Ilicínea,5778
-Elói Mendes,5772
-Itabirito,5767
-Resplendor,5757
-Presidente Olegário,5705
-Conselheiro Pena,5639
-Luz,5602
-Conceição do Rio Verde,5587
-Bambuí,5566
-Cruzília,5556
-Bom Sucesso,5552
-Monte Santo de Minas,5471
-Córrego Fundo,5337
-Porteirinha,5310
-Minas Novas,5285
-Santana do Paraíso,5126
-Itambacuri,5034
-Itaobim,5015
-Tiradentes,4964
-Taiobeiras,4947
-Borda da Mata,4906
-Monte Sião,4873
-Lagoa Grande,4873
-São Joaquim de Bicas,4868
-Carmo do Cajuru,4836
-Capinópolis,4833
-Sarzedo,4829
-Campos Gerais,4755
-São João Nepomuceno,4744
-São Francisco,4685
-Jequitinhonha,4646
-Itamogi,4630
-Fronteira,4620
-Lima Duarte,4581
-Espera Feliz,4579
-Planura,4533
-Juruaia,4524
-Nova Resende,4480
-Pedralva,4446
-Cachoeira de Minas,4398
-Coronel Pacheco,4396
-São José do Jacuri,4396
-Bocaiúva,4352
-São Tiago,4345
-Rio Pomba,4343
-Machacalis,4341
-Miraí,4328
-Serro,4316
-Caraí,4300
-Senador Firmino,4266
-Areado,4252
-Itaguara,4225
-Alvinópolis,4222
-Candeias,4203
-Caeté,4190
-Confins,4171
-Dores do Indaiá,4144
-Iguatama,4090
-Felixlândia,4041
-Morada Nova de Minas,4008
-Rio Paranaíba,4006
-São Thomé das Letras,3938
-Araporã,3929
-Jenipapo de Minas,3887
-Moema,3864
-Mirabela,3855
-Pimenta,3823
-São João Batista do Glória,3777
-Carangola,3767
-Bicas,3766
-Araújos,3744
-Alfredo Vasconcelos,3716
-Ipanema,3676
-Guapé,3673
-Itamonte,3666
-Belo Oriente,3660
-Rio Pardo de Minas,3654
-Cabeceira Grande,3653
-Coração de Jesus,3640
-Lambari,3625
-Limeira do Oeste,3624
-Estiva,3585
-Cabo Verde,3561
-Passa Quatro,3522
-Cássia,3511
-Aiuruoca,3505
-Manhumirim,3473
-Rio Acima,3467
-Carlos Chagas,3435
-Pratápolis,3394
-Mercês,3370
-Pains,3363
-Baependi,3338
-Caetanópolis,3267
-Divino,3202
-Ibiraci,3138
-Mato Verde,3125
-Brasília de Minas,3119
-Guiricema,3092
-Caldas,3068
-Nova Era,3051
-Paraisópolis,3043
-Canápolis,3020
-Itanhomi,3019
-Coronel Xavier Chaves,2959
-Guidoval,2952
-São Gonçalo do Rio Abaixo,2930
-Virgínia,2928
-Guarda-Mor,2921
-Belo Vale,2904
-Monsenhor Paulo,2902
-Delfinópolis,2893
-Matipó,2889
-Ervália,2872
-Santana de Cataguases,2822
-Pouso Alto,2809
-Bandeira do Sul,2808
-Raul Soares,2796
-Centralina,2795
-Astolfo Dutra,2771
-Estrela do Sul,2752
-Moeda,2733
-Crucilândia,2724
-Ipaba,2722
-Alpinópolis,2699
-Bueno Brandão,2699
-Santa Maria de Itabira,2672
-Recreio,2655
-Rio Casca,2626
-Divinésia,2602
-Carbonita,2598
-Serra do Salitre,2585
-Jacutinga,2577
-Campo Florido,2574
-São Tomás de Aquino,2547
-Espinosa,2534
-Brazópolis,2528
-Santa Rita de Caldas,2519
-Capitão Enéas,2517
-São Gonçalo do Pará,2509
-Piedade de Caratinga,2471
-Alto Jequitibá,2470
-Campos Altos,2467
-Águas Formosas,2439
-Piedade do Rio Grande,2435
-Poté,2404
-Sabinópolis,2400
-Cana Verde,2397
-Conceição da Aparecida,2385
-Ouro Fino,2364
-Alterosa,2364
-Cambuquira,2359
-Arceburgo,2350
-São Domingos do Prata,2347
-São João do Paraíso,2345
-Jequitibá,2332
-Santo Antônio do Aventureiro,2332
-Simonésia,2324
-Monte Belo,2323
-Paraopeba,2292
-Ibitiúra de Minas,2292
-Coqueiral,2287
-Descoberto,2275
-Francisco Sá,2272
-Cristina,2260
-Indianópolis,2258
-Lagamar,2256
-Rodeiro,2250
-Chapada Gaúcha,2248
-Ritápolis,2235
-Montalvânia,2209
-Santana do Jacaré,2206
-Goianá,2203
-Desterro de Entre Rios,2190
-Serrania,2188
-Santos Dumont,2180
-Capim Branco,2180
-Maria da Fé,2162
-Carmo de Minas,2159
-Careaçu,2156
-Pedra Azul,2149
-Carvalhópolis,2140
-São Pedro da União,2122
-Santa Juliana,2108
-Delta,2107
-Ubaporanga,2100
-Rio Preto,2097
-Natalândia,2094
-Peçanha,2085
-Rio Piracicaba,2079
-Guarará,2070
-Bonito de Minas,2066
-Itapeva,2029
-Piraúba,2024
-Lassance,2022
-Madre de Deus de Minas,2014
-Sapucaí-Mirim,2007
-Datas,1982
-Gouveia,1964
-Piracema,1964
-Alto Rio Doce,1956
-Toledo,1955
-Veríssimo,1948
-Tocos do Moji,1948
-Prudente de Morais,1943
-Guarani,1930
-Entre Rios de Minas,1922
-Monte Alegre de Minas,1920
-Rubim,1920
-Manga,1914
-Dom Bosco,1913
-São Francisco de Sales,1912
-Divisa Nova,1900
-Resende Costa,1899
-Maripá de Minas,1897
-Carmo da Mata,1895
-Bertópolis,1894
-Virginópolis,1885
-Laranjal,1881
-Rio Vermelho,1876
-Bela Vista de Minas,1867
-Capitão Andrade,1856
-Coroaci,1852
-Felisburgo,1839
-Santa Rita de Ibitipoca,1838
-Água Comprida,1838
-Palmópolis,1833
-Joaíma,1803
-Matias Barbosa,1802
-Teixeiras,1800
-São José da Barra,1794
-São João Evangelista,1787
-Inconfidentes,1780
-Ressaquinha,1772
-Mário Campos,1770
-Conceição dos Ouros,1767
-Natércia,1766
-Gonçalves,1748
-Taparuba,1745
-Gurinhatã,1738
-Santa Efigênia de Minas,1734
-Pirajuba,1734
-Chapada do Norte,1729
-Claraval,1716
-Eugenópolis,1710
-Fortaleza de Minas,1705
-Virgem da Lapa,1700
-Delfim Moreira,1684
-Itabirinha,1683
-Chalé,1683
-Ipuiúna,1682
-Japaraíba,1675
-São Brás do Suaçuí,1670
-São Francisco de Paula,1668
-Riacho dos Machados,1666
-Prados,1657
-Luminárias,1656
-Carmésia,1649
-Bonfim,1645
-Corinto,1643
-Medina,1626
-Francisco Badaró,1616
-Virgolândia,1613
-Cachoeira da Prata,1608
-Lagoa Dourada,1607
-Engenheiro Caldas,1603
-Piranguinho,1601
-Jacinto,1601
-Itueta,1588
-Bom Jardim de Minas,1586
-Inhaúma,1540
-Nazareno,1538
-Belmiro Braga,1529
-Santana do Riacho,1528
-Cascalho Rico,1527
-Porto Firme,1527
-Monte Azul,1525
-Palma,1510
-Aguanil,1484
-Gonzaga,1482
-Berilo,1464
-Ribeirão Vermelho,1463
-Nacip Raydan,1448
-São Geraldo,1448
-Paulistas,1446
-Tumiritinga,1440
-Uruana de Minas,1432
-Antônio Dias,1430
-Fama,1430
-Ubaí,1429
-São Sebastião da Vargem Alegre,1422
-Campo Azul,1422
-Fronteira dos Vales,1414
-São Sebastião do Oeste,1413
-Ibertioga,1405
-Santa Maria do Suaçuí,1405
-Franciscópolis,1396
-Claro dos Poções,1395
-Jeceaba,1395
-Formoso,1392
-Santa Rita do Sapucaí,1384
-Naque,1382
-Dom Viçoso,1380
-São Vicente de Minas,1378
-Cordisburgo,1373
-Florestal,1361
-Ipiaçu,1361
-Couto de Magalhães de Minas,1358
-Canaã,1353
-Pescador,1348
-Entre Folhas,1345
-Imbé de Minas,1342
-Funilândia,1342
-São José do Goiabal,1313
-Varzelândia,1310
-Ponto dos Volantes,1307
-Rio Manso,1299
-Salinas,1296
-Urucânia,1290
-Santo Antônio do Amparo,1289
-Tapira,1281
-São Gonçalo do Rio Preto,1278
-São Roque de Minas,1276
-São Sebastião do Rio Verde,1274
-Argirita,1264
-Frei Inocêncio,1262
-Goiabeira,1245
-Taquaraçu de Minas,1242
-Joanésia,1238
-Salto da Divisa,1235
-São Romão,1232
-Baldim,1231
-Grupiara,1229
-Silvianópolis,1224
-Divinolândia de Minas,1223
-São João das Missões,1222
-Setubinha,1219
-Dom Silvério,1217
-Joaquim Felício,1203
-Fernandes Tourinho,1203
-Andrelândia,1202
-Santa Bárbara do Monte Verde,1199
-Santana do Manhuaçu,1197
-Padre Paraíso,1196
-Guaraciama,1194
-Cônego Marinho,1188
-União de Minas,1185
-Coluna,1182
-Santa Maria do Salto,1175
-Passa Tempo,1163
-Santo Antônio do Itambé,1155
-Angelândia,1148
-Riachinho,1143
-Conceição de Ipanema,1139
-Ladainha,1138
-Guimarânia,1136
-Pedra do Indaiá,1129
-Lamim,1126
-Malacacheta,1125
-Dores de Guanhães,1119
-Wenceslau Braz,1112
-Conceição do Pará,1104
-Paula Cândido,1092
-Dona Eusébia,1089
-Catas Altas,1084
-Jordânia,1073
-Senador Amaral,1063
-Rosário da Limeira,1061
-Santana da Vargem,1060
-Tabuleiro,1056
-Ewbank da Câmara,1055
-Ninheira,1052
-Carrancas,1052
-Aricanduva,1049
-Mathias Lobato,1045
-Ijaci,1041
-Queluzito,1038
-Novo Cruzeiro,1037
-Santa Bárbara do Tugúrio,1035
-Grão Mogol,1031
-Ferros,1029
-Itumirim,1028
-Fortuna de Minas,1022
-Romaria,1018
-São Pedro dos Ferros,1006
-Capetinga,1004
-Senador Modestino Gonçalves,996
-Quartel Geral,995
-São José do Alegre,994
-Santo Antônio do Jacinto,992
-Santana de Pirapama,992
-Dores do Turvo,989
-Perdigão,973
-Tarumirim,970
-Itacarambi,965
-São Geraldo da Piedade,960
-Matutina,955
-Piranguçu,953
-Antônio Prado de Minas,952
-Lontra,942
-Miradouro,935
-São Sebastião do Anta,927
-Cajuri,926
-Maravilhas,923
-Pavão,922
-Bom Jesus do Galho,922
-Carmo da Cachoeira,920
-Japonvar,918
-Santo Antônio do Grama,916
-Faria Lemos,909
-Curral de Dentro,906
-Córrego do Bom Jesus,905
-Rio do Prado,904
-Itutinga,897
-Heliodora,893
-Dom Cavati,893
-Itamarati de Minas,889
-Conceição da Barra de Minas,882
-Comendador Gomes,882
-Novo Oriente de Minas,867
-São Gonçalo do Abaeté,866
-Sobrália,863
-Matias Cardoso,859
-Brás Pires,858
-São Sebastião da Bela Vista,855
-São João do Oriente,855
-Pedra do Anta,842
-Jequeri,836
-Espírito Santo do Dourado,831
-Divisa Alegre,821
-Luislândia,819
-Pintópolis,812
-Cipotânea,809
-Alto Caparaó,802
-Liberdade,799
-Chiador,798
-Rubelita,795
-Jequitaí,794
-Divisópolis,792
-Catas Altas da Noruega,791
-Capela Nova,788
-Bandeira,787
-Douradoquara,787
-Ingaí,780
-Itinga,776
-Pai Pedro,773
-Jampruca,768
-Vargem Bonita,766
-Senador Cortes,765
-Felício dos Santos,765
-Itaverava,760
-Cruzeiro da Fortaleza,757
-Sericita,757
-Inimutaba,755
-Bom Jesus da Penha,751
-Tombos,750
-Presidente Bernardes,750
-Estrela do Indaiá,744
-Córrego Danta,741
-Pingo-d'Água,739
-Catuji,739
-Presidente Juscelino,738
-Varjão de Minas,736
-Soledade de Minas,736
-Coimbra,721
-Monjolos,719
-Albertina,712
-São João da Mata,712
-Piau,710
-Buenópolis,702
-Augusto de Lima,699
-Morro do Pilar,699
-Leme do Prado,696
-São Pedro do Suaçuí,693
-Tiros,684
-São João da Ponte,676
-Seritinga,671
-Dionísio,669
-Santa Rosa da Serra,669
-Bocaina de Minas,666
-Presidente Kubitschek,661
-Morro da Garça,653
-Marmelópolis,649
-Pedro Teixeira,648
-Cordislândia,646
-Galiléia,641
-Caparaó,640
-Cuparaque,639
-Pedrinópolis,637
-São João do Manhuaçu,628
-São Miguel do Anta,626
-Munhoz,623
-Cedro do Abaeté,620
-Mendes Pimentel,619
-Estrela Dalva,619
-Carvalhos,616
-Reduto,614
-Cristiano Otoni,612
-Botumirim,609
-Amparo do Serra,602
-Santa Cruz do Escalvado,601
-Santana do Deserto,596
-Barra Longa,596
-Desterro do Melo,594
-Tocantins,586
-Santa Bárbara do Leste,586
-Serra dos Aimorés,576
-São Bento Abade,572
-Abadia dos Dourados,567
-Marliéria,560
-Catuti,557
-Açucena,541
-São Geraldo do Baixio,536
-Senhora de Oliveira,534
-Padre Carvalho,534
-São João da Lagoa,530
-Comercinho,530
-Sem-Peixe,524
-Paiva,522
-Durandé,521
-Cachoeira Dourada,515
-Biquinhas,515
-Santana dos Montes,512
-Onça de Pitangui,512
-Divino das Laranjeiras,512
-Araçaí,510
-Santa Rita de Minas,510
-Água Boa,509
-Chácara,509
-Central de Minas,502
-Luisburgo,500
-São João do Pacuí,499
-Iapu,487
-Paineiras,487
-Santa Margarida,483
-Braúnas,481
-Pedras de Maria da Cruz,481
-Turvolândia,481
-Leandro Ferreira,480
-Pequi,480
-Serranópolis de Minas,478
-Olímpio Noronha,475
-Nova Módica,473
-Congonhas do Norte,473
-Itaipé,469
-Materlândia,469
-Camacho,466
-Pocrane,460
-Alvarenga,451
-Santa Helena de Minas,448
-Rochedo de Minas,444
-Doresópolis,439
-Frei Gaspar,438
-São Sebastião do Maranhão,438
-Conceição das Pedras,437
-Ibituruna,435
-Alvorada de Minas,428
-Verdelândia,424
-Arantina,423
-Mutum,421
-Crisólita,421
-Pedra Bonita,421
-Itacambira,418
-Alagoa,416
-São José da Safira,414
-Barão de Monte Alto,413
-Ouro Verde de Minas,412
-Marilac,406
-Mar de Espanha,394
-Ibiaí,392
-Patrocínio do Muriaé,392
-Gameleiras,391
-Caputira,384
-Cachoeira de Pajeú,381
-Coronel Murta,379
-Rio Novo,372
-Josenópolis,372
-Mamonas,371
-São Félix de Minas,369
-Nova Belém,361
-São Francisco do Glória,361
-Campo do Meio,354
-Fervedouro,351
-Francisco Dumont,349
-Casa Grande,345
-Araponga,342
-Silveirânia,341
-Serra Azul de Minas,340
-Orizânia,339
-José Raydan,329
-Guaraciaba,328
-Bias Fortes,328
-Jaguaraçu,325
-Oliveira Fortes,321
-Santa Rita do Itueto,318
-Monte Formoso,317
-Serra da Saudade,316
-Jesuânia,314
-Cambuí,309
-Passa-Vinte,308
-Icaraí de Minas,306
-Abre Campo,305
-Cantagalo,304
-Senhora dos Remédios,303
-Miravânia,299
-Glaucilândia,298
-Fruta de Leite,296
-Pratinha,293
-Patis,290
-Novorizonte,289
-Córrego Novo,279
-Diogo de Vasconcelos,278
-Ibiracatu,275
-Caranaíba,275
-Senador José Bento,274
-São Domingos das Dores,273
-Capitólio,271
-Montezuma,271
-Congonhal,271
-Lagoa dos Patos,269
-Santa Fé de Minas,267
-Mesquita,262
-Vargem Alegre,254
-Santana do Garambéu,253
-Santo Hipólito,251
-Águas Vermelhas,248
-Aracitaba,244
-Juramento,243
-Vieiras,242
-Veredinha,242
-Serranos,242
-Bugre,239
-Oratórios,238
-Bom Jesus do Amparo,236
-Nova Porteirinha,233
-Juvenília,232
-Martins Soares,221
-São João do Manteninha,217
-Passabém,216
-Dom Joaquim,214
-Bonfinópolis de Minas,208
-Periquito,204
-Iraí de Minas,201
-Itambé do Mato Dentro,196
-Dores de Campos,190
-Acaiaca,188
-Arapuá,186
-Mata Verde,185
-Simão Pereira,184
-Vargem Grande do Rio Pardo,173
-Sardoá,172
-Piedade dos Gerais,167
-José Gonçalves de Minas,147
-Frei Lagonegro,140
-Rio Espera,137
-Ataléia,137
-Piedade de Ponte Nova,134
-Santo Antônio do Retiro,130
-Alpercata,124
-Volta Grande,115
-Rio Doce,115
-Olaria,114
-Senhora do Porto,107
-Tapiraí,107
-Caiana,102
-São Sebastião do Rio Preto,84
-Umburatiba,74
-Cristália,74
-Ponto Chique,71
-Vermelho Novo,70
-Santa Rita de Jacutinga,54
-Santa Cruz de Salinas,53
-São José do Divino,52
-Berizal,45
-Urucuia,43
-Consolação,40
-Indaiabira,40
-São José da Varginha,38
-Uba,32
-Olhos-d'Água,23
-Nova União,22
-Pequeri,19
-Goiana,19
-Para De Minas,19
-São José do Mantimento,17
-Vitória da Conquista,11
-Minduri,11
-Lajinha,9
-Ibirite,8
-Guanhaes,8
-Bom Jesus Do Galho,6
-Pratapolis,5
-Uberlandia,5
-Pedra Dourada,5
-Janauba,4
-Santana Do Paraiso,2
-Joao Pinheiro,2
-GOVERNADOR VALADAREZ,2
-Espirito Santo Do Dourado,2
-Sao Lourenco,2
-Timoteo,2
-Sao Bernardo Do Campo,1
-Cancelado,1
-Joao Monlevade,1
-Cura,1
-Sabara,1
-Sao Sebastiao Do Paraiso,1
-Santana Do Riacho,1
-Joaima,1
-Jaiba,1
-Virginopolis,1
-Itajuba,1
-Patos De Minas,1
-Campanário,1
-Muriae,1
-Cassia,1
-3136702,1
-Piedade De Caratinga,1
-Aimores,1
-Divinolandia De Minas,1
-Corrego Fundo,1
-Pocos De Caldas,1
+Belo Horizonte,271801
+Contagem,42339
+Montes Claros,40821
+Uberlândia,29964
+Uberaba,27685
+Juiz de Fora,20150
+Divinópolis,19402
+Pouso Alegre,17496
+Betim,16921
+Itajubá,15867
+Sete Lagoas,15810
+Governador Valadares,15173
+Lavras,12282
+Araguari,11924
+Patos de Minas,11502
+Santa Luzia,11246
+Ubá,11087
+Ituiutaba,10396
+Poços de Caldas,9669
+Ouro Preto,9368
+Araxá,9226
+Nova Lima,8835
+Ipatinga,8784
+Varginha,8583
+São Lourenço,8512
+Pará de Minas,8052
+São Sebastião do Paraíso,7940
+Formiga,7765
+Ribeirão das Neves,7514
+Lagoa da Prata,7465
+Passos,7435
+Pirapora,6968
+Três Corações,6909
+Paracatu,6380
+Sabará,6341
+Manhuaçu,6201
+São João del Rei,6160
+Conselheiro Lafaiete,6081
+Extrema,5899
+Viçosa,5817
+Alfenas,5781
+Arcos,5755
+Itaúna,5591
+Barbacena,5584
+Muriaé,5564
+Coronel Fabriciano,5516
+Sacramento,5443
+Vespasiano,5197
+Monte Carmelo,5055
+Unaí,5025
+Curvelo,5005
+Lagoa Santa,4948
+Andradas,4830
+Campo Belo,4747
+Nova Serrana,4733
+Diamantina,4724
+Iturama,4559
+Bom Despacho,4433
+Frutal,4282
+Patrocínio,4173
+João Monlevade,4056
+Pedro Leopoldo,4014
+Cataguases,4008
+Brumadinho,3760
+Teófilo Otoni,3580
+Três Pontas,3477
+Itamarandiba,3474
+Santa Vitória,3430
+Itabira,3396
+Janaúba,3257
+Igarapé,3171
+Ponte Nova,3158
+Santo Antônio do Monte,3060
+Além Paraíba,2969
+João Pinheiro,2722
+Santa Bárbara,2691
+Prata,2638
+Leopoldina,2614
+Piumhi,2587
+Ibirité,2586
+Boa Esperança,2547
+Visconde do Rio Branco,2494
+Mateus Leme,2419
+Carmo do Paranaíba,2361
+Machado,2324
+Caratinga,2305
+Três Marias,2297
+Esmeraldas,2294
+Matozinhos,2253
+Timóteo,2216
+Barroso,2175
+Congonhas,2088
+Januária,2059
+Pitangui,2049
+Nanuque,2039
+Pompéu,2034
+Capelinha,2029
+Mariana,2002
+São José da Lapa,1957
+Buritis,1921
+Arinos,1864
+Carmópolis de Minas,1846
+Itaú de Minas,1838
+Muzambinho,1757
+Ibiá,1710
+São Gonçalo do Sapucaí,1680
+Caxambu,1673
+Carneirinho,1667
+Lagoa Formosa,1646
+São Gotardo,1646
+Conceição do Mato Dentro,1639
+Cláudio,1618
+Raposos,1611
+Camanducaia,1585
+Ouro Branco,1583
+Paraguaçu,1583
+Jaboticatubas,1520
+Coromandel,1520
+Campestre,1500
+Tupaciguara,1440
+Jaíba,1413
+Araçuaí,1396
+Cristais,1393
+Carmo do Rio Claro,1386
+Itapagipe,1383
+Nepomuceno,1374
+Guaranésia,1352
+Oliveira,1303
+Antônio Carlos,1299
+Várzea da Palma,1287
+Perdões,1287
+Itapecerica,1260
+Itatiaiuçu,1248
+Brasilândia de Minas,1242
+Itanhandu,1206
+Papagaios,1198
+Guaxupé,1183
+Aimorés,1182
+Conquista,1182
+Abaeté,1182
+Almenara,1179
+Bambuí,1178
+Conceição das Alagoas,1166
+Buritizeiro,1164
+Nova Ponte,1163
+Pirapetinga,1163
+Igaratinga,1127
+Carandaí,1107
+Campina Verde,1106
+Poço Fundo,1105
+Juatuba,1098
+Barão de Cocais,1092
+Guanhães,1079
+Presidente Olegário,1078
+Bom Sucesso,1072
+Vazante,1067
+Monte Santo de Minas,1060
+Resplendor,1054
+Turmalina,1052
+Cruzília,1050
+Bom Repouso,1041
+Minas Novas,1023
+Conceição do Rio Verde,1017
+Santana do Paraíso,1004
+Botelhos,989
+Conselheiro Pena,980
+São Joaquim de Bicas,973
+Santa Cruz de Minas,965
+Elói Mendes,964
+Luz,950
+Itaobim,949
+Juruaia,941
+Borda da Mata,930
+Capinópolis,927
+Martinho Campos,920
+Tiradentes,918
+Itambacuri,918
+Ilicínea,909
+Fronteira,904
+Espera Feliz,903
+Taiobeiras,894
+Piranga,884
+Inhapim,881
+Sarzedo,877
+Itamogi,876
+Carmo do Cajuru,874
+Planura,869
+Porteirinha,868
+Lagoa Grande,865
+Confins,846
+Miraí,844
+Campanha,843
+Itaguara,839
+Bocaiúva,828
+Campos Gerais,828
+Alvinópolis,823
+Perdizes,821
+São Francisco,819
+Monte Sião,816
+Caraí,813
+Caeté,808
+Iguatama,806
+Candeias,800
+Areado,799
+Itabirito,790
+Mantena,774
+Rio Pomba,773
+Jequitinhonha,769
+Morada Nova de Minas,757
+Rio Paranaíba,757
+São Thomé das Letras,754
+Felixlândia,753
+São João Nepomuceno,748
+Senador Firmino,745
+Pedralva,744
+São José do Jacuri,743
+Serro,739
+Carangola,731
+Moema,726
+São Tiago,725
+Mirabela,722
+Jenipapo de Minas,722
+Dores do Indaiá,722
+Manhumirim,715
+Araporã,714
+Estiva,711
+Bicas,702
+Pimenta,701
+Cabeceira Grande,698
+Córrego Fundo,694
+Lima Duarte,688
+Carlos Chagas,687
+Pratápolis,685
+Belo Oriente,685
+Rio Pardo de Minas,684
+São João Batista do Glória,674
+Alfredo Vasconcelos,670
+Cássia,669
+Coração de Jesus,667
+Nova Resende,665
+Limeira do Oeste,658
+Guapé,651
+Passa Quatro,643
+Cabo Verde,643
+Aiuruoca,641
+Baependi,636
+Itamonte,627
+Ibiraci,623
+Divino,621
+Pains,618
+Mercês,615
+Araújos,604
+Paraisópolis,596
+Caetanópolis,593
+Caldas,590
+Mato Verde,590
+Ipanema,573
+Rio Acima,570
+Canápolis,570
+Machacalis,565
+Centralina,565
+Nova Era,560
+Guarda-Mor,554
+Guiricema,550
+Jacutinga,543
+Itanhomi,541
+São Tomás de Aquino,540
+Rio Casca,539
+Brasília de Minas,534
+Coronel Xavier Chaves,533
+Ipaba,526
+Estrela do Sul,524
+Santa Rita de Caldas,521
+Bueno Brandão,520
+Alpinópolis,519
+Divinésia,518
+Belo Vale,515
+Santana de Cataguases,512
+Santa Maria de Itabira,511
+Delfinópolis,509
+Recreio,508
+Crucilândia,507
+Bandeira do Sul,506
+São Gonçalo do Rio Abaixo,506
+Guidoval,505
+Carbonita,503
+Serra do Salitre,500
+Raul Soares,490
+Capitão Enéas,489
+Campo Florido,487
+Sabinópolis,486
+São Gonçalo do Pará,483
+Espinosa,481
+Arceburgo,478
+Astolfo Dutra,478
+Cachoeira de Minas,477
+Virgínia,474
+Cana Verde,464
+Piedade do Rio Grande,458
+Brazópolis,458
+Jequitibá,451
+Chapada Gaúcha,450
+Pouso Alto,448
+Ervália,448
+Santo Antônio do Aventureiro,447
+Conceição da Aparecida,445
+São Domingos do Prata,442
+Águas Formosas,442
+Lambari,442
+Delta,438
+Santana do Jacaré,436
+Simonésia,436
+Coqueiral,435
+Poté,435
+São João do Paraíso,429
+Alterosa,428
+Paraopeba,422
+Ibitiúra de Minas,422
+Itapeva,420
+Goianá,418
+Campos Altos,413
+Maria da Fé,412
+Matipó,409
+Madre de Deus de Minas,409
+Carmo de Minas,408
+Francisco Sá,408
+Pedra Azul,404
+Monte Belo,404
+Carvalhópolis,401
+Moeda,400
+Alto Rio Doce,399
+Bela Vista de Minas,395
+Divisa Nova,394
+Bertópolis,393
+Rodeiro,393
+Ouro Fino,392
+Indianópolis,389
+Dom Bosco,389
+Alto Jequitibá,389
+Toledo,387
+Montalvânia,387
+Carmo da Mata,386
+Piedade de Caratinga,385
+Água Comprida,382
+Peçanha,382
+Cristina,381
+São Pedro da União,380
+Prudente de Morais,378
+Descoberto,375
+Guarani,375
+Santa Juliana,371
+Ritápolis,369
+Veríssimo,368
+São Francisco de Sales,364
+Piraúba,363
+Guarará,362
+Lassance,362
+Natalândia,361
+Monsenhor Paulo,358
+Datas,356
+Bonito de Minas,354
+Capim Branco,354
+Sapucaí-Mirim,352
+Entre Rios de Minas,350
+Itabirinha,348
+Capitão Andrade,346
+Lagamar,345
+São João Evangelista,343
+Maripá de Minas,342
+Resende Costa,341
+Ipuiúna,341
+São José da Barra,340
+Fortaleza de Minas,340
+Francisco Badaró,339
+Chalé,339
+Inconfidentes,338
+Laranjal,338
+Tocos do Moji,337
+Cambuquira,336
+Rubim,335
+Desterro de Entre Rios,335
+Claraval,335
+Mário Campos,335
+Monte Alegre de Minas,334
+Natércia,334
+Virginópolis,334
+Taparuba,334
+Piracema,333
+Careaçu,333
+Santa Rita de Ibitipoca,331
+Joaíma,329
+Carmésia,328
+Coroaci,327
+São Francisco de Paula,326
+Ressaquinha,326
+Eugenópolis,323
+Gouveia,319
+Inhaúma,319
+Manga,318
+Rio Piracicaba,318
+Chapada do Norte,318
+Virgem da Lapa,317
+São Brás do Suaçuí,315
+Japaraíba,314
+Itueta,312
+Gonçalves,311
+Rio Preto,311
+Fronteira dos Vales,309
+Felisburgo,308
+Riacho dos Machados,308
+Gurinhatã,307
+Piranguinho,304
+Bonfim,304
+Santa Efigênia de Minas,303
+Engenheiro Caldas,301
+Jacinto,301
+Prados,300
+Pirajuba,298
+São Sebastião do Oeste,295
+São Sebastião da Vargem Alegre,295
+Bom Jardim de Minas,293
+Monte Azul,291
+Cachoeira da Prata,291
+São Geraldo,290
+Campo Azul,290
+Cascalho Rico,290
+Santana do Riacho,289
+Conceição dos Ouros,288
+Teixeiras,286
+Formoso,284
+Ribeirão Vermelho,284
+São Vicente de Minas,283
+Medina,282
+Nazareno,282
+Fama,282
+Florestal,281
+Palma,279
+Matias Barbosa,279
+Ipiaçu,279
+Santa Rita do Sapucaí,279
+Uruana de Minas,278
+Berilo,278
+Lagoa Dourada,278
+Aguanil,276
+Rio Vermelho,272
+Paulistas,269
+Virgolândia,268
+Luminárias,268
+Santa Maria do Suaçuí,267
+Claro dos Poções,267
+Canaã,266
+Serrania,266
+Pescador,262
+Franciscópolis,259
+Nacip Raydan,257
+Imbé de Minas,257
+Ibertioga,256
+Cordisburgo,254
+São José do Goiabal,253
+Porto Firme,251
+Funilândia,249
+Belmiro Braga,249
+Cônego Marinho,247
+Goiabeira,247
+Dom Viçoso,247
+Argirita,246
+Santana do Manhuaçu,244
+Varzelândia,243
+São Roque de Minas,243
+Dom Silvério,242
+Guimarânia,242
+Jeceaba,240
+Baldim,240
+Tapira,239
+Delfim Moreira,239
+São Sebastião do Rio Verde,238
+Setubinha,237
+Lamim,237
+Padre Paraíso,236
+Angelândia,235
+Entre Folhas,235
+Grupiara,234
+Silvianópolis,232
+Rio Manso,231
+Antônio Dias,230
+Urucânia,230
+Santa Bárbara do Monte Verde,226
+Fernandes Tourinho,226
+Couto de Magalhães de Minas,225
+Ponto dos Volantes,223
+Corinto,221
+São João das Missões,221
+São Gonçalo do Rio Preto,220
+Divinolândia de Minas,220
+Conceição de Ipanema,220
+São Romão,220
+Santa Bárbara do Tugúrio,218
+Tumiritinga,217
+Taquaraçu de Minas,215
+Joanésia,215
+Paula Cândido,215
+Pedra do Indaiá,214
+Andrelândia,214
+Catas Altas,213
+Santo Antônio do Amparo,213
+Santa Maria do Salto,213
+Quartel Geral,211
+Wenceslau Braz,211
+Senador Amaral,210
+Fortuna de Minas,210
+Riachinho,209
+Frei Inocêncio,209
+Rosário da Limeira,207
+Gonzaga,206
+Ewbank da Câmara,205
+Ladainha,204
+Guaraciama,203
+Joaquim Felício,203
+União de Minas,203
+Jordânia,203
+Santo Antônio do Itambé,201
+Ferros,201
+Conceição do Pará,201
+Aricanduva,200
+Santana de Pirapama,200
+Grão Mogol,199
+Santo Antônio do Grama,197
+Salto da Divisa,197
+Tabuleiro,197
+Dona Eusébia,196
+Senador Modestino Gonçalves,196
+Itacarambi,196
+Novo Cruzeiro,196
+Romaria,195
+Curral de Dentro,191
+Matutina,190
+Antônio Prado de Minas,189
+Ninheira,188
+Maravilhas,187
+Perdigão,185
+Santo Antônio do Jacinto,184
+Dores do Turvo,184
+Heliodora,184
+Carrancas,183
+Piranguçu,182
+Itutinga,180
+Senador Cortes,180
+São Sebastião do Anta,179
+Itumirim,178
+Córrego do Bom Jesus,178
+Divisa Alegre,177
+São José do Alegre,176
+Luislândia,175
+Miradouro,175
+Queluzito,173
+Faria Lemos,173
+Vargem Bonita,173
+Comendador Gomes,172
+Coluna,171
+Tarumirim,170
+Lontra,170
+Dom Cavati,169
+Ubaporanga,169
+Cipotânea,169
+Palmópolis,169
+Salinas,168
+Pavão,168
+São Sebastião da Bela Vista,168
+Pedra do Anta,168
+São Pedro dos Ferros,167
+Mathias Lobato,166
+Jequitaí,166
+Novo Oriente de Minas,165
+Chiador,164
+Conceição da Barra de Minas,164
+Brás Pires,163
+Catas Altas da Noruega,162
+Ubaí,162
+Liberdade,160
+Naque,159
+Pai Pedro,158
+Espírito Santo do Dourado,158
+Japonvar,155
+Jequeri,154
+Bandeira,154
+Sobrália,154
+Malacacheta,154
+Tombos,153
+Dores de Guanhães,152
+Rubelita,151
+Cajuri,151
+Albertina,151
+Presidente Juscelino,149
+Capetinga,149
+Itinga,149
+Botumirim,148
+São Gonçalo do Abaeté,148
+Itaverava,147
+Augusto de Lima,146
+Rio do Prado,145
+Jampruca,144
+Divisópolis,144
+Capela Nova,142
+Estrela do Indaiá,141
+Varjão de Minas,141
+Inimutaba,141
+Coronel Pacheco,141
+São João da Mata,140
+Ingaí,139
+Alto Caparaó,139
+Cruzeiro da Fortaleza,138
+Soledade de Minas,137
+Buenópolis,137
+Leme do Prado,136
+Santa Bárbara do Leste,136
+Monjolos,136
+Felício dos Santos,135
+Douradoquara,135
+Carmo da Cachoeira,135
+Ijaci,135
+Cristiano Otoni,134
+Abadia dos Dourados,133
+Córrego Danta,132
+Coimbra,132
+Pingo-d'Água,131
+Carvalhos,131
+Piau,131
+Reduto,129
+Pedro Teixeira,129
+Pintópolis,129
+Bom Jesus da Penha,129
+Bocaina de Minas,128
+Matias Cardoso,128
+Morro da Garça,128
+Bom Jesus do Galho,128
+Cordislândia,126
+Sericita,125
+São Pedro do Suaçuí,125
+Santana do Deserto,124
+Presidente Bernardes,124
+Pedrinópolis,122
+Sem-Peixe,122
+Santa Rosa da Serra,122
+São João do Oriente,121
+São João do Manhuaçu,121
+São João da Ponte,120
+São João do Pacuí,120
+São João da Lagoa,120
+Presidente Kubitschek,119
+Itamarati de Minas,119
+Cedro do Abaeté,117
+Cuparaque,117
+Santana da Vargem,116
+Galiléia,115
+Araçaí,114
+Morro do Pilar,113
+Catuji,113
+Central de Minas,112
+Paiva,112
+São Geraldo da Piedade,112
+Marmelópolis,111
+Açucena,110
+Santana dos Montes,110
+Estrela Dalva,109
+Mendes Pimentel,109
+Cachoeira Dourada,108
+Biquinhas,108
+São Miguel do Anta,107
+São Bento Abade,106
+Santa Cruz do Escalvado,106
+Tiros,106
+Chácara,106
+Desterro do Melo,105
+Luisburgo,105
+Durandé,104
+Caparaó,103
+Serra dos Aimorés,102
+Padre Carvalho,102
+Tocantins,101
+Catuti,99
+Nova Módica,99
+Leandro Ferreira,98
+Comercinho,98
+Seritinga,98
+Olímpio Noronha,97
+Munhoz,97
+Santa Rita de Minas,97
+Barra Longa,95
+Senhora de Oliveira,95
+Pequi,95
+Alvarenga,95
+Divino das Laranjeiras,95
+Serranópolis de Minas,93
+Itacambira,93
+Dionísio,92
+Onça de Pitangui,91
+São Geraldo do Baixio,91
+Marliéria,91
+Materlândia,90
+São José da Safira,89
+Congonhas do Norte,89
+Paineiras,89
+Alvorada de Minas,89
+Itaipé,88
+Turvolândia,88
+Barão de Monte Alto,87
+Santa Margarida,87
+Amparo do Serra,85
+Camacho,85
+Conceição das Pedras,83
+Santa Helena de Minas,82
+Frei Gaspar,81
+Crisólita,81
+Ibiaí,81
+Marilac,80
+Pedra Bonita,79
+Rio Novo,79
+Mutum,78
+Gameleiras,78
+São Sebastião do Maranhão,77
+São Félix de Minas,77
+Pocrane,77
+Nova Belém,76
+Rochedo de Minas,76
+Doresópolis,76
+Mamonas,76
+Guaraciaba,75
+Campo do Meio,75
+Ibituruna,75
+Braúnas,74
+Água Boa,74
+Arantina,73
+Patrocínio do Muriaé,73
+Pedras de Maria da Cruz,73
+Ouro Verde de Minas,72
+Alagoa,72
+Casa Grande,72
+Orizânia,70
+Cachoeira de Pajeú,68
+Oliveira Fortes,68
+São Francisco do Glória,67
+Santana do Garambéu,66
+Francisco Dumont,66
+Araponga,65
+Abre Campo,65
+Glaucilândia,65
+Passa Tempo,65
+Bias Fortes,63
+Cambuí,63
+Caputira,63
+Senador José Bento,61
+Coronel Murta,60
+Serra Azul de Minas,60
+Silveirânia,60
+Josenópolis,59
+Fervedouro,59
+Pratinha,59
+Monte Formoso,59
+Santa Rita do Itueto,58
+Serra da Saudade,58
+Senhora dos Remédios,57
+Ibiracatu,56
+Miravânia,55
+Icaraí de Minas,55
+Passa-Vinte,53
+Novorizonte,53
+Lagoa dos Patos,52
+Cantagalo,51
+Juramento,51
+Patis,51
+Córrego Novo,51
+Vieiras,50
+Aracitaba,50
+Montezuma,50
+Vargem Alegre,48
+Águas Vermelhas,46
+Diogo de Vasconcelos,46
+Santo Hipólito,46
+José Raydan,45
+Martins Soares,45
+Juvenília,45
+Serranos,45
+Periquito,44
+Itambé do Mato Dentro,43
+Mar de Espanha,43
+Caranaíba,41
+Mata Verde,41
+Oratórios,41
+Congonhal,40
+Santa Fé de Minas,40
+Dores de Campos,40
+Passabém,39
+Arapuá,39
+São João do Manteninha,38
+Jesuânia,38
+Capitólio,37
+Mesquita,37
+Veredinha,37
+Dom Joaquim,36
+Simão Pereira,36
+Santos Dumont,36
+Iraí de Minas,35
+São Domingos das Dores,34
+Vargem Grande do Rio Pardo,34
+José Gonçalves de Minas,34
+Fruta de Leite,32
+Piedade dos Gerais,32
+Acaiaca,31
+Bonfinópolis de Minas,31
+Sardoá,28
+Piedade de Ponte Nova,26
+Frei Lagonegro,24
+Olaria,24
+Alpercata,23
+Nova Porteirinha,23
+Tapiraí,21
+Iapu,20
+Ataléia,20
+Caiana,20
+Jaguaraçu,20
+Santo Antônio do Retiro,20
+Rio Doce,20
+São Sebastião do Rio Preto,18
+Rio Espera,17
+Cristália,16
+Volta Grande,15
+Bom Jesus do Amparo,14
+Ponto Chique,14
+Umburatiba,12
+Senhora do Porto,12
+Berizal,11
+Consolação,10
+São José do Divino,10
+Vermelho Novo,8
+Urucuia,8
+Bugre,8
+Santa Cruz de Salinas,7
+São José da Varginha,7
+Verdelândia,7
+Olhos-d'Água,6
+Indaiabira,6
+Nova União,3
+Pequeri,3
+Vitória da Conquista,2
+Ibirite,2
+São José do Mantimento,2
+Lajinha,1
+Uberlandia,1

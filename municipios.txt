@@ -1,0 +1,853 @@
+Abadia dos Dourados: 6.365
+Abaeté: 23.161
+Abre Campo: 14.312
+Acaiaca: 3.997
+Açucena: 8.995
+Água Boa: 12.545
+Água Comprida: 2.165
+Aguanil: 4.490
+Águas Formosas: 18.841
+Águas Vermelhas: 14.486
+Aimorés: 26.165
+Aiuruoca: 6.382
+Alagoa: 2.816
+Albertina: 3.023
+Além Paraíba: 31.333
+Alfenas: 81.950
+Alfredo Vasconcelos: 7.184
+Almenara: 41.894
+Alpercata: 7.029
+Alpinópolis: 18.672
+Alterosa: 14.253
+Alto Caparaó: 5.982
+Alto Rio Doce: 10.994
+Alvarenga: 4.012
+Alvinópolis: 15.360
+Alvorada de Minas: 4.322
+Amparo do Serra: 4.595
+Andradas: 42.282
+Cachoeira de Pajeú: 9.333
+Andrelândia: 12.169
+Angelândia: 7.860
+Antônio Carlos: 11.345
+Antônio Dias: 9.388
+Antônio Prado de Minas 1.558
+Araçaí 2.224
+Aracitaba 2.095
+Araçuaí 35.250
+Araguari 122.874
+Arantina 2.991
+Araponga 8.218
+Araporã 8.935
+Arapuá 2.674
+Araújos 9.556
+Araxá 117.677
+Arceburgo 9.348
+Arcos 43.348
+Areado 14.212
+Argirita 2.725
+Aricanduva 4.820
+Arinos 17.598
+Astolfo Dutra 14.565
+Ataléia 13.967
+Augusto de Lima 4.593
+Baependi 18.768
+Baldim 7.614
+Bambuí 24.144
+Bandeira 4.821
+Bandeira do Sul 6.146
+Barão de Cocais 32.095
+Barão de Monte Alto 4.991
+Barbacena 129.630
+Barra Longa 5.740
+Barroso 20.566
+Bela Vista de Minas 10.412
+Belmiro Braga 3.299
+Belo Horizonte 2.416.339
+Belo Oriente 24.503
+Belo Vale 8.946
+Berilo 9.769
+Bertópolis 4.546
+Berizal 4.277
+Betim 429.236
+Bias Fortes 3.388
+Bicas 14.331
+Biquinhas 2.409
+Boa Esperança 41.332
+Bocaina de Minas 5.508
+Bocaiúva 49.668
+Bom Despacho 53.995
+Bom Jardim de Minas 6.968
+Bom Jesus da Penha 4.642
+Bom Jesus do Amparo 5.775
+Bom Jesus do Galho 14.756
+Bom Repouso 13.183
+Bom Sucesso 17.510
+Bonfim 7.672
+Bonfinópolis de Minas 5.615
+Bonito de Minas 10.491
+Borda da Mata 17.811
+Botelhos 15.137
+Botumirim 5.841
+Brasilândia de Minas 15.432
+Brasília de Minas 33.188
+Brás Pires 4.314
+Braúnas 4.475
+Brazópolis 14.506
+Brumadinho 40.777
+Bueno Brandão 11.161
+Buenópolis 9.229
+Bugre 4.149
+Buritis 24.693
+Buritizeiro 24.068
+Cabeceira Grande 6.797
+Cabo Verde 11.396
+Cachoeira da Prata 3.781
+Cachoeira de Minas 12.248
+Cachoeira Dourada 2.346
+Caetanópolis 11.832
+Caeté 39.850
+Caiana 5.463
+Cajuri 4.186
+Caldas 14.588
+Camacho 2.867
+Camanducaia 27.551
+Cambuí 30.870
+Cambuquira 12.560
+Campanário 2.917
+Campanha 16.334
+Campestre 21.143
+Campina Verde 18.250
+Campo Azul 3.802
+Campo Belo 53.943
+Campo do Meio 11.624
+Campo Florido 8.838
+Campos Altos 13.136
+Campos Gerais 26.809
+Canaã 4.832
+Canápolis 10.755
+Cana Verde 5.356
+Candeias 14.236
+Cantagalo 4.039
+Caparaó 5.144
+Capela Nova 4.416
+Capelinha 41.536
+Capetinga 6.652
+Capim Branco 11.105
+Capinópolis 14.899
+Capitão Andrade 4.650
+Capitão Enéas 14.401
+Capitólio 10.863
+Caputira 9.128
+Caraí 19.654
+Caranaíba 2.960
+Carandaí 24.368
+Carangola 32.165
+Caratinga 90.687
+Carbonita 8.633
+Careaçu 7.029
+Carlos Chagas 18.852
+Carmésia 2.682
+Carmo da Cachoeira 11.776
+Carmo da Mata 11.279
+Carmo de Minas 14.114
+Carmo do Cajuru 24.376
+Carmo do Paranaíba 29.899
+Carmo do Rio Claro 21.464
+Carmópolis de Minas 18.498
+Carneirinho 9.630
+Carrancas 4.153
+Carvalhópolis 3.417
+Carvalhos 4.507
+Casa Grande 2.260
+Cascalho Rico 2.757
+Cássia 17.495
+Conceição da Barra de Minas 3.596
+Cataguases 67.872
+Catas Altas 5.668
+Catas Altas da Noruega 3.141
+Catuji 7.226
+Catuti 4.805
+Caxambu 21.436
+Cedro do Abaeté 1.091
+Central de Minas 6.243
+Centralina 10.440
+Chácara 3.177
+Chalé 6.261
+Chapada do Norte 10.024
+Chapada Gaúcha 12.810
+Chiador 2.865
+Cipotânea 5.599
+Claraval 4.777
+Claro dos Poções 7.259
+Cláudio 31.665
+Coimbra 7.285
+Coluna 8.251
+Comendador Gomes 2.813
+Comercinho 6.627
+Conceição da Aparecida 10.668
+Conceição das Pedras 2.837
+Conceição das Alagoas 29.949
+Conceição de Ipanema 4.503
+Conceição do Mato Dentro 24.254
+Conceição do Pará 5.567
+Conceição do Rio Verde 12.780
+Conceição dos Ouros 11.183
+Cônego Marinho 7.420
+Confins 7.676
+Congonhal 11.403
+Congonhas 54.986
+Congonhas do Norte 4.927
+Conquista 6.864
+Conselheiro Lafaiete 137.980
+Conselheiro Pena 21.113
+Consolação 1.578
+Contagem 649.975
+Coqueiral 9.197
+Coração de Jesus 26.151
+Cordisburgo 7.592
+Cordislândia 3.247
+Corinto 23.996
+Coroaci 11.200
+Coromandel 30.013
+Coronel Fabriciano 108.551
+Coronel Murta 8.283
+Coronel Pacheco 2.799
+Coronel Xavier Chaves 3.586
+Córrego Danta 2.978
+Córrego do Bom Jesus 4.429
+Córrego Fundo 6.310
+Córrego Novo 2.912
+Couto de Magalhães de Minas 4.346
+Crisólita 5.296
+Cristais 12.576
+Cristália 5.165
+Cristiano Otoni 4.735
+Cristina 10.627
+Crucilândia 5.633
+Cruzeiro da Fortaleza 3.610
+Cruzília 15.779
+Cuparaque 3.994
+Curral de Dentro 7.630
+Curvelo 83.862
+Datas 5.618
+Delfim Moreira 8.130
+Delfinópolis 8.760
+Delta 11.003
+Descoberto 5.058
+Desterro de Entre Rios 7.900
+Desterro do Melo 3.059
+Diamantina 49.353
+Diogo de Vasconcelos 3.596
+Dionísio 6.789
+Divinésia 4.426
+Divino 21.329
+Divino das Laranjeiras 4.186
+Divinolândia de Minas 6.607
+Divinópolis 242.328
+Divisa Alegre 6.513
+Divisa Nova 5.993
+Divisópolis 10.585
+Dom Bosco 3.767
+Dom Cavati 4.981
+Dom Joaquim 5.051
+Dom Silvério 5.350
+Dom Viçoso 3.176
+Dona Euzébia 6.241
+Dores de Campos 10.313
+Dores de Guanhães 5.121
+Dores do Indaiá 12.786
+Dores do Turvo 5.159
+Doresópolis 1.496
+Douradoquara 1.869
+Durandé 8.038
+Elói Mendes 27.343
+Engenheiro Caldas 14.308
+Engenheiro Navarro 6.411
+Entre Folhas 5.293
+Entre Rios de Minas 15.120
+Ervália 20.951
+Esmeraldas 91.573
+Espera Feliz 24.761
+Espinosa 31.385
+Espírito Santo do Dourado 7.007
+Estiva 11.836
+Estrela Dalva 2.204
+Estrela do Indaiá 2.750
+Estrela do Sul 6.926
+Eugenópolis 11.075
+Ewbank da Câmara 3.977
+Extrema 57.913
+Fama 2.662
+Faria Lemos 3.239
+Felício dos Santos 5.248
+Felisburgo 6.592
+Felixlândia 14.279
+Fernandes Tourinho 2.825
+Ferros 9.666
+Fervedouro 10.693
+Florestal 8.386
+Formiga 70.668
+Formoso 8.103
+Fortaleza de Minas 3.485
+Fortuna de Minas 3.207
+Francisco Badaró 7.208
+Francisco Dumont 4.564
+Francisco Sá 23.819
+Franciscópolis 5.062
+Frei Gaspar 5.741
+Frei Inocêncio 8.334
+Frei Lagonegro 3.475
+Fronteira 14.909
+Fronteira dos Vales 4.405
+Fruta de Leite 4.607
+Frutal 60.942
+Funilândia 4.886
+Galiléia 6.281
+Gameleiras 4.863
+Glaucilândia 2.991
+Goiabeira 2.869
+Goianá 4.190
+Gonçalves 4.891
+Gonzaga 5.271
+Gouveia 11.549
+Governador Valadares 266.649
+Grão Mogol 14.091
+Grupiara 1.426
+Guanhães 33.434
+Guapé 14.073
+Guaraciaba 9.921
+Guaraciama 5.203
+Guaranésia 19.611
+Guarani 7.780
+Guarará 3.132
+Guarda-Mor 6.684
+Guaxupé 52.621
+Guidoval 7.284
+Guimarânia 8.808
+Guiricema 7.850
+Gurinhatã 5.203
+Heliodora 6.274
+Iapu 12.486
+Ibertioga 5.334
+Ibiá 22.596
+Ibiaí 6.254
+Ibiracatu 5.139
+Ibiraci 11.057
+Ibirité 178.713
+Ibitiúra de Minas 3.439
+Ibituruna 2.740
+Icaraí de Minas 10.912
+Igarapé 48.475
+Igaratinga 11.252
+Iguatama 6.845
+Ijaci 7.291
+Ilicínea 13.171
+Imbé de Minas 7.208
+Inconfidentes 7.510
+Indaiabira 6.379
+Indianópolis 6.309
+Ingaí 2.633
+Inhapim 23.000
+Inhaúma 6.435
+Inimutaba 7.587
+Ipaba 17.554
+Ipanema 20.095
+Ipatinga 235.445
+Ipiaçu 3.823
+Ipuiúna 9.299
+Iraí de Minas 7.423
+Itabira 117.747
+Itabirinha 10.560
+Itabirito 55.877
+Itacambira 4.265
+Itacarambi 17.521
+Itaguara 14.325
+Itaipé 10.549
+Itajubá 96.632
+Itamarandiba 34.137
+Itamarati de Minas 3.730
+Itambacuri 21.296
+Itambé do Mato Dentro 2.175
+Itamogi 11.062
+Itamonte 15.193
+Itanhandu 15.684
+Itanhomi 11.298
+Itaobim 19.354
+Itapagipe 14.004
+Itapecerica 21.462
+Itapeva 13.332
+Itatiaiuçu 13.603
+Itaú de Minas 14.655
+Itaúna 102.500
+Itaverava 5.752
+Itinga 13.982
+Itueta 6.218
+Ituiutaba 106.397
+Itumirim 6.845
+Iturama 40.011
+Itutinga 4.347
+Jaboticatubas 21.214
+Jacinto 11.169
+Jacuí 7.663
+Jacutinga 26.705
+Jaguaraçu 3.173
+Jaíba 39.379
+Jampruca 4.306
+Janaúba 73.281
+Januária 67.087
+Japaraíba 4.672
+Japonvar 8.357
+Jeceaba 6.428
+Jenipapo de Minas 6.124
+Jequeri 12.652
+Jequitaí 6.460
+Jequitibá 6.098
+Jequitinhonha 24.509
+Jesuânia 5.296
+Joaíma 14.084
+Joanésia 4.304
+João Monlevade 83.360
+João Pinheiro 48.532
+Joaquim Felício 3.891
+Jordânia 10.536
+José Gonçalves de Minas 3.993
+José Raydan 4.352
+Josenópolis 3.607
+Nova União 6.083
+Juatuba 32.726
+Juiz de Fora 565.764
+Juramento 3.815
+Juruaia 11.543
+Juvenília 5.929
+Ladainha 14.399
+Lagamar 6.672
+Lagoa da Prata 53.583
+Lagoa dos Patos 3.285
+Lagoa Dourada 13.116
+Lagoa Formosa 19.507
+Lagoa Grande 9.210
+Lagoa Santa 79.981
+Lajinha 21.422
+Lambari 20.950
+Lamim 3.226
+Laranjal 6.042
+Lassance 7.358
+Lavras 109.884
+Leandro Ferreira 3.270
+Leme do Prado 4.387
+Leopoldina 52.696
+Liberdade 4.775
+Lima Duarte 17.712
+Limeira do Oeste 9.087
+Lontra 8.968
+Luisburgo 7.195
+Luislândia 6.329
+Luminárias 5.731
+Luz 18.304
+Machacalis 6.579
+Machado 38.831
+Madre de Deus de Minas 5.341
+Malacacheta 17.751
+Mamonas 6.096
+Manga 19.188
+Manhuaçu 96.545
+Manhumirim 20.970
+Mantena 27.358
+Maravilhas 7.518
+Mar de Espanha 13.119
+Maria da Fé 14.557
+Mariana 64.058
+Marilac 4.320
+Mário Campos 16.546
+Maripá de Minas 3.532
+Marliéria 4.761
+Marmelópolis 3.299
+Martinho Campos 14.461
+Martins Soares 8.725
+Mata Verde 9.458
+Materlândia 3.982
+Mateus Leme 40.239
+Mathias Lobato 3.069
+Matias Barbosa 14.501
+Matias Cardoso 8.975
+Matipó 19.054
+Mato Verde 12.238
+Matozinhos 39.291
+Matutina 3.907
+Medeiros 4.040
+Medina 20.492
+Mendes Pimentel 5.651
+Mercês 10.609
+Mesquita 5.038
+Minas Novas 24.191
+Minduri 3.815
+Mirabela 14.029
+Miradouro 9.026
+Miraí 13.922
+Miravânia 4.011
+Moeda 5.291
+Moema 7.778
+Monjolos 2.196
+Monsenhor Paulo 8.550
+Montalvânia 14.160
+Monte Alegre de Minas 20.666
+Monte Azul 20.577
+Monte Belo 13.340
+Monte Carmelo 49.354
+Monte Formoso 4.449
+Monte Santo de Minas 21.301
+Montes Claros 434.321
+Monte Sião 24.933
+Montezuma 6.979
+Morada Nova de Minas 9.364
+Morro da Garça 2.438
+Morro do Pilar 3.174
+Munhoz 7.857
+Muriaé 108.161
+Mutum 28.670
+Muzambinho 22.527
+Nacip Raydan 2.437
+Nanuque 35.554
+Naque 6.442
+Natalândia 3.626
+Natércia 4.800
+Nazareno 8.390
+Nepomuceno 25.774
+Ninheira 10.915
+Nova Belém 3.156
+Nova Era 17.807
+Nova Lima 119.142
+Nova Módica 3.731
+Nova Ponte 15.113
+Nova Porteirinha 6.780
+Nova Resende 16.854
+Nova Serrana 112.910
+Novo Cruzeiro 27.453
+Novo Oriente de Minas 10.501
+Novorizonte 4.630
+Olaria 1.986
+Olhos-d'Água 5.520
+Olímpio Noronha 2.616
+Oliveira 40.552
+Oliveira Fortes 2.062
+Onça de Pitangui 3.027
+Oratórios 5.076
+Orizânia 8.759
+Ouro Branco 40.411
+Ouro Fino 33.227
+Ouro Preto 77.601
+Ouro Verde de Minas 5.858
+Padre Carvalho 5.085
+Padre Paraíso 17.537
+Paineiras 4.273
+Pains 8.341
+Pai Pedro 5.634
+Paiva 1.498
+Palma 5.742
+Palmópolis 6.373
+Papagaios 14.207
+Paracatu 98.397
+Pará de Minas 102.033
+Paraguaçu 22.357
+Paraisópolis 21.005
+Paraopeba 24.800
+Passabém 1.617
+Passa Quatro 15.842
+Passa Tempo 8.696
+Passa Vinte 2.301
+Passos 116.530
+Patis 4.863
+Patos de Minas 167.870
+Patrocínio 93.852
+Patrocínio do Muriaé 5.735
+Paula Cândido 8.786
+Paulistas 4.429
+Pavão 8.168
+Peçanha 17.843
+Pedra Azul 24.999
+Pedra Bonita 7.559
+Pedra do Anta 3.371
+Pedra do Indaiá 4.232
+Pedra Dourada 2.883
+Pedralva 10.924
+Pedras de Maria da Cruz 10.619
+Pedrinópolis 3.404
+Pedro Leopoldo 64.910
+Pedro Teixeira 1.854
+Pequeri 3.448
+Pequi 4.258
+Perdigão 12.925
+Perdizes 17.830
+Perdões 21.991
+Periquito 6.647
+Pescador 3.587
+Piau 2.854
+Piedade de Caratinga 8.883
+Piedade de Ponte Nova 4.056
+Piedade do Rio Grande 4.697
+Piedade dos Gerais 5.175
+Pimenta 8.794
+Pingo-d'Água 4.845
+Pintópolis 7.231
+Piracema 6.884
+Pirajuba 5.762
+Piranga 17.360
+Piranguçu 6.271
+Piranguinho 9.451
+Pirapetinga 11.408
+Pirapora 57.543
+Piraúba 11.958
+Pitangui 27.734
+Piumhi 37.742
+Planura 11.484
+Poço Fundo 16.791
+Poços de Caldas 171.533
+Pocrane 8.468
+Pompéu 32.305
+Ponte Nova 59.569
+Ponto Chique 3.807
+Ponto dos Volantes 11.077
+Porteirinha 38.668
+Porto Firme 10.825
+Poté 13.751
+Pouso Alegre 160.751
+Pouso Alto 6.755
+Prados 9.327
+Prata 29.578
+Pratápolis 8.551
+Pratinha 3.673
+Presidente Bernardes 4.883
+Presidente Juscelino 3.493
+Presidente Kubitschek 3.154
+Presidente Olegário 19.177
+Alto Jequitibá 8.596
+Prudente de Morais 11.940
+Quartel Geral 3.237
+Queluzito 1.800
+Raposos 16.735
+Raul Soares 23.882
+Recreio 11.337
+Reduto 8.170
+Resende Costa 11.520
+Resplendor 17.612
+Ressaquinha 4.641
+Riachinho 6.890
+Riacho dos Machados 8.886
+Ribeirão das Neves 344.828
+Ribeirão Vermelho 4.201
+Rio Acima 10.626
+Rio Casca 12.921
+Rio Doce 2.542
+Rio do Prado 4.679
+Rio Espera 5.479
+Rio Manso 5.727
+Rio Novo 8.689
+Rio Paranaíba 15.143
+Rio Pardo de Minas 29.123
+Rio Piracicaba 15.001
+Rio Pomba 17.856
+Rio Preto 5.240
+Rio Vermelho 12.815
+Ritápolis 5.115
+Rochedo de Minas 2.363
+Rodeiro 9.064
+Romaria 3.440
+Rosário da Limeira 4.896
+Rubelita 5.572
+Rubim 10.575
+Sabará 134.286
+Sabinópolis 14.382
+Sacramento 27.891
+Salinas 41.641
+Salto da Divisa 6.164
+Santa Bárbara 31.756
+Santa Bárbara do Leste 8.737
+Santa Bárbara do Monte Verde 3.199
+Santa Bárbara do Tugúrio 4.262
+Santa Cruz de Minas 8.321
+Santa Cruz de Salinas 3.944
+Santa Cruz do Escalvado 4.743
+Santa Efigênia de Minas 4.067
+Santa Fé de Minas 3.551
+Santa Helena de Minas 6.059
+Santa Juliana 16.568
+Santa Luzia 229.483
+Santa Margarida 16.903
+Santa Maria de Itabira 10.716
+Santa Maria do Salto 4.803
+Santa Maria do Suaçuí 12.898
+Santana da Vargem 6.781
+Santana de Cataguases 3.553
+Santana de Pirapama 7.079
+Santana do Deserto 3.819
+Santana do Garambéu 2.175
+Santana do Jacaré 4.265
+Santana do Manhuaçu 9.236
+Santana do Paraíso 48.286
+Santana do Riacho 5.579
+Santana dos Montes 3.507
+Santa Rita de Caldas 8.588
+Santa Rita de Jacutinga 4.836
+Santa Rita de Minas 6.952
+Santa Rita de Ibitipoca 3.344
+Santa Rita do Itueto 5.973
+Santa Rita do Sapucaí 42.320
+Santa Rosa da Serra 3.476
+Santa Vitória 21.745
+Santo Antônio do Amparo 17.651
+Santo Antônio do Aventureiro 3.881
+Santo Antônio do Grama 4.342
+Santo Antônio do Itambé 3.979
+Santo Antônio do Jacinto 10.397
+Santo Antônio do Monte 28.358
+Santo Antônio do Retiro 6.743
+Santo Antônio do Rio Abaixo 1.853
+Santo Hipólito 2.720
+Santos Dumont 43.392
+São Bento Abade 4.835
+São Brás do Suaçuí 4.133
+São Domingos das Dores 5.778
+São Domingos do Prata 17.771
+São Félix de Minas 3.252
+São Francisco 54.239
+São Francisco de Paula 6.293
+São Francisco de Sales 5.857
+São Francisco do Glória 4.866
+São Geraldo 10.517
+São Geraldo da Piedade 3.258
+São Geraldo do Baixio 3.175
+São Gonçalo do Abaeté 7.521
+São Gonçalo do Pará 12.192
+São Gonçalo do Rio Abaixo 12.353
+São Gonçalo do Rio Preto 3.098
+São Gonçalo do Sapucaí 24.480
+São Gotardo 43.309
+São João Batista do Glória 7.912
+São João da Lagoa 4.950
+São João da Mata 3.000
+São João da Ponte 24.269
+São João das Missões 13.467
+São João del Rei 94.062
+São João do Manhuaçu 11.614
+São João do Manteninha 5.468
+São João do Oriente 7.139
+São João do Pacuí 4.052
+São João do Paraíso 24.604
+São João Evangelista 15.617
+São João Nepomuceno 26.478
+São Joaquim de Bicas 36.496
+São José da Barra 8.084
+São José da Lapa 27.710
+São José da Safira 3.861
+São José da Varginha 4.677
+São José do Alegre 4.242
+São José do Divino 3.501
+São José do Goiabal 5.492
+São José do Jacuri 6.298
+São José do Mantimento 2.834
+São Lourenço 46.653
+São Miguel do Anta 6.430
+São Pedro da União 4.979
+São Pedro dos Ferros 7.194
+São Pedro do Suaçuí 5.166
+São Romão 10.553
+São Roque de Minas 7.341
+São Sebastião da Bela Vista 6.694
+São Sebastião da Vargem Alegre 3.219
+São Sebastião do Anta 6.386
+São Sebastião do Maranhão 10.244
+São Sebastião do Oeste 9.355
+São Sebastião do Paraíso 74.742
+São Sebastião do Rio Preto 1.248
+São Sebastião do Rio Verde 2.373
+São Tiago 11.517
+São Tomás de Aquino 6.853
+São Tomé das Letras 7.089
+São Vicente de Minas 6.935
+Sapucaí-Mirim 6.462
+Sardoá 5.164
+Sarzedo 39.327
+Setubinha 10.032]
+Sem-Peixe 2.441
+Senador Amaral 6.458
+Senador Cortes 2.319
+Senador Firmino 7.945
+Senador José Bento 2.137
+Senador Modestino Gonçalves 4.035
+Senhora de Oliveira 5.584
+Senhora do Porto 3.088
+Senhora dos Remédios 10.640
+Sericita 7.536
+Seritinga 1.864
+Serra Azul de Minas 3.829
+Serra da Saudade 854
+Serra dos Aimorés 6.936
+Serra do Salitre 12.210
+Serrania 7.802
+Serranópolis de Minas 4.496
+Serranos 2.035
+Serro 22.550
+Sete Lagoas 237.931
+Silveirânia 2.391
+Silvianópolis 6.336
+Simão Pereira 3.060
+Simonésia 20.339
+Sobrália 5.175
+Soledade de Minas 5.733
+Tabuleiro 4.098
+Taiobeiras 34.392
+Taparuba 3.492
+Tapira 4.212
+Tapiraí 1.707
+Taquaraçu de Minas 4.368
+Tarumirim 15.072
+Teixeiras 12.634
+Teófilo Otoni 142.571
+Timóteo 84.087
+Tiradentes 8.008
+Tiros 8.172
+Tocantins 16.574
+Tocos do Moji 3.899
+Toledo 7.541
+Tombos 8.699
+Três Corações 78.079
+Três Marias 29.927
+Três Pontas 57.086
+Tumiritinga 5.973
+Tupaciguara 26.482
+Turmalina 20.650
+Turvolândia 5.078
+Ubá 107.222
+Ubaí 11.977
+Ubaporanga 13.423
+Uberaba 354.142
+Uberlândia 754.954
+Umburatiba 2.742
+Unaí 90.724
+União de Minas 3.848
+Uruana de Minas 3.360
+Urucânia 10.875
+Urucuia 18.291
+Vargem Alegre 5.834
+Vargem Bonita 2.206
+Vargem Grande do Rio Pardo 4.727
+Varginha 142.802
+Varjão de Minas 7.243
+Várzea da Palma 34.639
+Varzelândia 19.214
+Vazante 20.433
+Verdelândia 7.770
+Veredinha 5.257
+Veríssimo 3.480
+Vermelho Novo 5.034
+Vespasiano 136.826
+Viçosa 79.221
+Vieiras 3.780
+Virgem da Lapa 11.867
+Virgínia 9.142
+Virginópolis 10.519
+Virgolândia 4.530
+Visconde do Rio Branco 40.608
+Volta Grande 4.473
+Wenceslau Braz 2.387
